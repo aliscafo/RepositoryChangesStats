@@ -22,7 +22,7 @@ $ python3 changes_stats.py tensorflow/tensorflow bob 123456789
 ## Requirements
 Works well with Python 3.6.
 
-Install [PyGitHub](https://github.com/PyGithub/PyGithub)
+Install [PyGithub](https://github.com/PyGithub/PyGithub)
 ```bash
 $ pip3 install PyGithub
 ```
