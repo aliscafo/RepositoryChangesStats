@@ -1,5 +1,8 @@
 # RepositoryChangesStats
 
+RepositoryChangesStats application takes the last 50 commits from the specified repository, saves changes into files (per commit) and prints some stats: a list of authors sorted by the number of commits, an author of the largest and smallest in terms of the number of changed commit lines and a list of files sorted by how often they changed. Uses GitHub API (via PyGithub library) to make requests to https://api.github.com.
+
+
 ## Usage
 
 ```bash
