@@ -71,7 +71,7 @@ if __name__ == "__main__":
             last_commits = get_last_commits(repository_name, sys.argv[2], sys.argv[3])
         else:
             print("Consider authorization, cause for unauthenticated requests, the rate limit allows "
-                  "for up to 60 requests per hour "
+                  "for up to 60 GitHub API requests per hour "
                   "(example: python3 changes_stats.py googledatalab/datalab <username> <password>)")
             last_commits = get_last_commits(repository_name)
 
