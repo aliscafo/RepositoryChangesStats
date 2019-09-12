@@ -21,10 +21,10 @@ Works well with Python 3.6.
 
 Install [PyGitHub](https://github.com/PyGithub/PyGithub)
 ```bash
-$ pip install PyGithub
+$ pip3 install PyGithub
 ```
 
 Install [tabulate lib](https://pypi.org/project/tabulate/)
 ```bash
-$ pip install tabulate
+$ pip3 install tabulate
 ```
