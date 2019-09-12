@@ -22,12 +22,12 @@ $ python3 changes_stats.py tensorflow/tensorflow bob 123456789
 ## Requirements
 Works well with Python 3.6.
 
-Install [PyGithub](https://github.com/PyGithub/PyGithub)
+Install [PyGithub](https://github.com/PyGithub/PyGithub):
 ```bash
 $ pip3 install PyGithub
 ```
 
-Install [tabulate lib](https://pypi.org/project/tabulate/)
+Install [tabulate lib](https://pypi.org/project/tabulate/):
 ```bash
 $ pip3 install tabulate
 ```
